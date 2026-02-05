@@ -1,4 +1,4 @@
-# Flask App2 🚀
+# Flask App 🚀
 
 A clean and lightweight Flask application written in Python.  
 Ideal for learning Flask, building microservices, or practicing CI/CD pipelines.
