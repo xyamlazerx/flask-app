@@ -140,3 +140,7 @@ Kubernetes / Helm (with minor additions)
 🤝 Contributing
 Contributions are welcome!
 Feel free to open an issue or submit a pull request.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6f7e3ac (first files)
